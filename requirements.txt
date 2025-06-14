@@ -1,0 +1,8 @@
+gradio      
+nltk
+pandas
+torch
+datasets
+sentence-transformers
+faiss-cpu 
+accelerate
